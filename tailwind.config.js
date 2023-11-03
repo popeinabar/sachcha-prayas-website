@@ -17,7 +17,11 @@ module.exports = {
 
       backgroundColor: {
         'custom-green': 'green-600',
-      }
+      },
+      maxWidth:{
+        'max-w-0xl':'616px',
+        'max-h-0xl':'462px'
+      },
     },
   },
   plugins: [],
